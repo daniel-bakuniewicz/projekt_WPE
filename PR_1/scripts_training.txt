@@ -1,1 +1,0 @@
-W tym miejscu będzie plik scripts_training.py, który będzie służył do trenowania i konwersji modelu
