@@ -1,0 +1,1 @@
+Tutaj będą skrypty związane z trenowaniem i konwersją modelu
