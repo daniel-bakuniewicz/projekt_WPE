@@ -1,0 +1,18 @@
+# Przetwarzanie obrazu i wideo
+opencv-python
+
+# Obsługa modeli uczenia maszynowego (TensorFlow Lite)
+tflite-runtime
+
+# Biblioteka dedykowana do akceleratora Google Coral
+# Uwaga: Instalacja na RPi wymaga zazwyczaj dodania repozytorium Debiana od Google
+pycoral
+
+# Operacje na macierzach i danych numerycznych
+numpy
+
+# Obsługa obrazów (PIL)
+Pillow
+
+# Interfejs graficzny (opcjonalnie PyQt5 lub użycie wbudowanego Tkinter)
+PyQt5
