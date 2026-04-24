@@ -1,1 +1,1 @@
-Tutaj będą skrypty związane z trenowaniem i konwersją modelu
+Tutaj będą skompilowane modele pod Google Coral
