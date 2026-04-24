@@ -4,7 +4,7 @@
 * **Daniel Bakuniewicz**
 * **Kacper Drulla**
 
-## Zakres odpowiedzialności
+## 🎯 Zakres odpowiedzialności
 Głównym zadaniem podzespołu PR_1 jest przygotowanie „mózgu” systemu wizyjnego, czyli modelu sztucznej inteligencji zdolnego do rozpoznawania zagrożeń w środowisku wodnym.
 
 ### 📋 Lista zadań:
