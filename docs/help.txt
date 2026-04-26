@@ -1,0 +1,15 @@
+Utworzenie środowiska:
+python -m venv venv
+
+Aktywacja środowiska:
+- Windows -> venv\Scripts\activate
+- Linux -> source venv/bin/activate
+
+W momencie jak mamy aktywne środowisko i zainstalujemy jakieś biblioteki,
+należy wtedy użyć tej komendy w celu dodania tych nowo zainstalowanych bibliotek do pliku requirements:
+pip freeze > requirements.txt
+
+Jeżeli właśnie pobrałeś ten projekt, musisz najpierw utworzyć swoje środowisko (w folderze src/), następnie je aktywować i kolejno
+użyć tej komendy:
+pip install -r requirements.txt
+

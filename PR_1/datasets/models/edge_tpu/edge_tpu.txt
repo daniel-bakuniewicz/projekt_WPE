@@ -1,1 +1,0 @@
-Tutaj będą skompilowane modele pod Google Coral
