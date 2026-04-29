@@ -13,7 +13,7 @@ opencv-python==4.13.0.92
 packaging==26.2
 pandas==2.3.3
 progressbar2==4.5.0
-pycoral==0.2.0
+pycoral @ https://github.com/hjonnala/snippets/raw/main/wheels/python3.10/pycoral-2.0.0-cp310-cp310-linux_x86_64.whl
 pyogrio==0.12.1
 pyproj==3.7.1
 python-dateutil==2.9.0.post0
