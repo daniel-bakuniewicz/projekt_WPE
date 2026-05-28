@@ -112,6 +112,8 @@ python3 main.py
 4. Wykonanie obliczeń (Inferencja): Wywołanie metody interpreter.invoke() zmusza procesor Raspberry Pi 5 do sekwencyjnego przeliczenia warstw sieci.
 5. Przetwarzanie wyjścia (Postprocessing): Skrypt odczytuje z tensora wyjściowego znormalizowane współrzędne wykrytych obiektów, przypisuje im odpowiednie nazwy z pliku etykiet i rysuje na ekranie ramki wraz z poziomem pewności (score wyrażony w %).
 
+---
+
 # Dokumentacja techniczna podzespołu PR_2:
 
 
