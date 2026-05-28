@@ -141,7 +141,7 @@ Zawiera przyciski sterujące rozciągnięte na pełną szerokość okna (podzia�
 - Zapis wideo: Umożliwia nagrywanie obrazu z kamery do pliku. Przycisk zmienia tryb na STOP podczas trwania nagrania.
 - Zapis zdjęcia: Wykonuje natychmiastowy zrzut ekranu z podglądu kamery i zapisuje go w formacie JPG.
 
-## 4. WYMAGANIA TECHNICZNE
+## 3. WYMAGANIA TECHNICZNE
 
 Komputer sterujący: Mikrokomputer jednoukładowy Raspberry Pi 5 8GB: 
 
