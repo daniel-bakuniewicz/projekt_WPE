@@ -128,18 +128,18 @@ Przedstawia widok w czasie rzeczywistym z kamery zamontowanej na dziobie jednost
 
 ### 2.2 PASEK GÓRNY (TELEMETRIA I ALARMY OBECNIE W FORMIE STATYCZNEJ NA CEL PREZENTACJI ZAMYSŁU)
 Dostarcza kluczowych danych o stanie jednostki i otoczeniu:
--- Prędkość: Aktualna prędkość jednostki wyrażona w m/s, prezentowana na wskaźniku łukowym.
--- Bateria: Graficzna ikona poziomu naładowania z procentowym wskaźnikiem stanu energii.
--- Temperatura: Odczyt temperatury otoczenia prezentowany obok ikony termometru.
--- Kompas: Dynamiczna tarcza wskazująca aktualny kierunek płynięcia.
--- Alarmy: Pole tekstowe wyświetlające nazwę wykrytego obiektu (np. LODKA) w momencie wystąpienia zagrożenia.
--- Czas: Bieżąca data oraz godzina systemowa.
+- Prędkość: Aktualna prędkość jednostki wyrażona w m/s, prezentowana na wskaźniku łukowym.
+- Bateria: Graficzna ikona poziomu naładowania z procentowym wskaźnikiem stanu energii.
+- Temperatura: Odczyt temperatury otoczenia prezentowany obok ikony termometru.
+- Kompas: Dynamiczna tarcza wskazująca aktualny kierunek płynięcia.
+- Alarmy: Pole tekstowe wyświetlające nazwę wykrytego obiektu (np. LODKA) w momencie wystąpienia zagrożenia.
+- Czas: Bieżąca data oraz godzina systemowa.
 
 ### 2.3 PASEK DOLNY (OBSŁUGA I REJESTRACJA)
 Zawiera przyciski sterujące rozciągnięte na pełną szerokość okna (podział 1/3):
--- Historia alarmów: Przycisk otwierający rejestr wszystkich dotychczas wykrytych obiektów.
--- Zapis wideo: Umożliwia nagrywanie obrazu z kamery do pliku. Przycisk zmienia tryb na STOP podczas trwania nagrania.
--- Zapis zdjęcia: Wykonuje natychmiastowy zrzut ekranu z podglądu kamery i zapisuje go w formacie JPG.
+- Historia alarmów: Przycisk otwierający rejestr wszystkich dotychczas wykrytych obiektów.
+- Zapis wideo: Umożliwia nagrywanie obrazu z kamery do pliku. Przycisk zmienia tryb na STOP podczas trwania nagrania.
+- Zapis zdjęcia: Wykonuje natychmiastowy zrzut ekranu z podglądu kamery i zapisuje go w formacie JPG.
 
 ## 4. WYMAGANIA TECHNICZNE
 
