@@ -14,8 +14,8 @@ Celem naszego zespołu jest zaprojektowanie i wykonanie wbudowanego systemu wizy
 
 ### 📂 Podzespół PR_1: Dane, Modele i Dokumentacja
 **Skład osobowy:**
-1. Daniel Bakuniewicz
-2. Kacper Drulla
+1. Daniel Bakuniewicz (w razie przesyłania projektu dalej, proszę dać jako anonim)
+2. Kacper Drulla (w razie przesyłania projektu dalej, proszę dać jako anonim)
 
 **Zakres obowiązków:**
 * **Akwizycja danych:** Pozyskanie obrazów z kamery w różnych scenariuszach wodnych.
@@ -25,9 +25,9 @@ Celem naszego zespołu jest zaprojektowanie i wykonanie wbudowanego systemu wizy
 
 ### 📂 Podzespół PR_2: Implementacja, Integracja i GUI
 **Skład osobowy:**
-1. Jan Kowalewski
-2. Hubert Gołębiowski
-3. Szymon Ciechański
+1. Jan Kowalewski (w razie przesyłania projektu dalej, proszę dać jako anonim)
+2. Hubert Gołębiowski (w razie przesyłania projektu dalej, proszę dać jako anonim)
+3. Szymon Ciechański (w razie przesyłania projektu dalej, proszę dać jako anonim)
 
 **Zakres obowiązków:**
 * **Kodowanie:** Implementacja skryptów Python do przetwarzania obrazu i inferencji na Edge TPU.
