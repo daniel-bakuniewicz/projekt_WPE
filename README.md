@@ -102,7 +102,7 @@ pip install -r requirements.txt
 Po prawidłowej konfiguracji środowiska, proces inferencji na CPU uruchamia się za pomocą skryptu głównego lub powiązanego interfejsu graficznego (GUI):
 
 ```bash
-python3 main.py
+python3 GUI_ciag_dalszy.py
 ```
 ### 6.3 Algorytm działania programu na CPU
 1. Inicjalizacja: Program wywołuje klasę interpretera, ładując plik wag modelu .tflite oraz powiązany plik mapowania etykiet tekstowych.
